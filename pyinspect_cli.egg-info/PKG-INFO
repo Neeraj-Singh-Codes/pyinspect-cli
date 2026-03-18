@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: pyinspect-cli
+Version: 0.1.2
+Summary: A CLI tool to inspect practical source codes
+Author-email: Developer <developer@example.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# pyinspect-cli
+
+A CLI tool to inspect practical source codes.
+
+## Installation
+
+```bash
+pip install -e .
+```
+
+## Usage
+
+```bash
+pyinspect-cli list
+pyinspect-cli 1
+```

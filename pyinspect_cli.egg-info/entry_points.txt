@@ -1,0 +1,2 @@
+[console_scripts]
+pyinspect-cli = pyinspect_cli.cli:main
